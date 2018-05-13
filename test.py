@@ -1,2 +1,3 @@
 # -*-coding:Utf-8 -*
-import unicodedata 
+import unicodedata
+print("ceci est un essai")
